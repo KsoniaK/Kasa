@@ -9,7 +9,7 @@ function Accueil({ houses }) {
     <main className="main_accueil">
       <div className="banner_accueil">
         <img src={imageAccueil} alt="logements" />
-        <p>Chez vous, partout et ailleurs</p>
+        <p>Chez vous, partout et ailleurs </p>
       </div>
       <section className="logements_container">
         <article className="logements_card">
