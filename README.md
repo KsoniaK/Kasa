@@ -9,4 +9,4 @@ Kasa est dans le métier de la location d’appartements entre particuliers depu
 
 ## GitHub
 
-https://ksoniak.github.io/Kechit_Sonia_Kasa_11-2022/
+https://ksoniak.github.io/Kasa/
