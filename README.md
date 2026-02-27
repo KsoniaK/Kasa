@@ -11,3 +11,6 @@ Kasa est dans le métier de la location d’appartements entre particuliers depu
 ## GitHub
 
 https://ksoniak.github.io/Kasa/
+
+
+TEST PRISE EN COMPTE DES MODIFICATIONS
