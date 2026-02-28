@@ -8,6 +8,6 @@ Kasa est dans le métier de la location d’appartements entre particuliers depu
 - React
 - CSS
 
-## GitHub
+## GitHub Pages
 
 https://ksoniak.github.io/Kasa/
